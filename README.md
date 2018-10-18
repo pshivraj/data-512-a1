@@ -13,20 +13,7 @@ Two major data sources are used for this repo with established API endpoints:
  ## Repo structure and Data dictionary
  
  ### Structure
- ```
-├── Data_curation.ipynb
-├── README.md
-├── data
-│   ├── en-wikipedia_traffic_200801-201709.csv
-│   ├── pagecounts_desktop-site_2007120100_2016080100.json
-│   ├── pagecounts_mobile-site_2007120100_2016080100.json
-│   ├── pageviews_desktop_2015070100_2018100100.json
-│   ├── pageviews_mobile-app_2015070100_2018100100.json
-│   └── pageviews_mobile-web_2015070100_2018100100.json
-└── wiki_2007-2018_views.png
-
-1 directory, 9 files
-```
+![struct](https://i.imgur.com/8UkOw61.png)
  
  ### Data Dictionary
 
@@ -42,7 +29,7 @@ Two major data sources are used for this repo with established API endpoints:
 | pageview_mobile_views  | Total Mobile  views on Wiki based on pageviews API  |
 
 # Visualization
-![alt text](https://github.com/pshivraj/data-512-a1/blob/notebook_initial/wiki_2007-2018_views.png)
+![viz](https://github.com/pshivraj/data-512-a1/blob/notebook_initial/wiki_2007-2018_views.png)
 
 # Special consideration with Data
 
